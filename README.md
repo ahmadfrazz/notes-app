@@ -43,7 +43,7 @@ A simple ReactJS application to create draggable sticky notes.
 - Maintained the clean, organized and reusable code structure.
 - Created Proper Dahsboard Layout to render children components.
 - Created Re-usable components.
-- Used AntD UI to utilise preuild components.
+- Used AntD UI to utilise pre-built components and customised them as per requiremnts.
 - Implemented Redux/Toolkit for global state.
 - Implemented Tailwindcss to create responsive layout and style the elements.
 
