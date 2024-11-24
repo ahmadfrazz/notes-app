@@ -8,8 +8,8 @@ A simple ReactJS application to create draggable sticky notes.
 
 - Add one or more notes.
 - Drag-and-drop to any position.
-- Persistent state of notes using Redux/Tollkit.
-- Persistent state of notes position using Redux/Tollkit.
+- Persistent state of notes using Redux/Toolkit.
+- Persistent state of notes position using Redux/Toolkit.
 - Responsive UI using TailwindCss.
 - Efficiently handling errors to ensure seamless user experience.
 
@@ -18,7 +18,7 @@ A simple ReactJS application to create draggable sticky notes.
 - ReactJS
 - Ant Design UI
 - TailwindCss
-- Redux/Tollkit
+- Redux/Toolkit
 
 ## Running the App Locally
 
