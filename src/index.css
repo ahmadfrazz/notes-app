@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "SF Pro Display", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fffcf9 !important;
+  letter-spacing: 0.5px;
+}
+.ant-result-icon.ant-result-image > svg > g > path:nth-child(11) {
+  fill: #3d854f !important;
+}
+
+.ant-popover-content {
+  margin-right: 13px !important;
+}
+.ant-popover-inner {
+  /* width: 370px; */
+  height: 178px;
+  padding: 0px !important;
+}
+
+.ant-form-item-explain-error,
+.ant-message-notice-content {
+  font-family: "SF Pro Display", sans-serif;
+}
