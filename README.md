@@ -19,7 +19,6 @@ A simple ReactJS application to create draggable sticky notes.
 - Ant Design UI
 - TailwindCss
 - Redux/Tollkit
-- react-beautiful-dnd
 
 ## Running the App Locally
 
